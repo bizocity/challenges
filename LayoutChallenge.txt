@@ -6,6 +6,7 @@
     <style type="text/css">
     
     #container {
+        // centering element
         margin-right: auto;
         margin-left: auto;
         width: 960px;
