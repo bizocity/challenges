@@ -39,18 +39,18 @@
   #box2 {
    //position: absolute;
    top: 40px;
-   right: 50px;
+   left: 50px;
  }
  
   #box3 {
    //position: absolute;
-   bottom: 20px;
-   right: 70px;
+   top: 20px;
+   left: 70px;
  }
  
   #box4 {
     //position: absolute;
-    bottom: 20px;
+    top: 20px;
     left: 50px;
   }
  
