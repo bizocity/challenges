@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>Getting Started</title>
+            <style>
+                   .div1 {
+  background: linear-gradient(to right, #14974C, #A0D51D);
+  height: 100px;
+  width: 400px;
+}
+.div2 {
+  background: linear-gradient(to right, rgba(0,0,0,0), blue);
+  height: 100px;
+  width: 400px;
+}
+.div3 {
+  background: linear-gradient(to right, #F1C605 5%, #A0D51D 20%, #323528 100%);
+  height: 100px;
+  width: 400px;
+}
+.div4 {
+  background: radial-gradient(#14974C 50%, #A0D51D 50%);
+  height: 100px;
+  width: 400px;
+}
+.div5 {
+  background: linear-gradient(to right, red, orange, yellow, green, blue);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  height: 100px;
+  margin-top: 50px;
+  width: 400px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px; 
+}
+.div6 {
+  background: radial-gradient(#F9EED4, #9F7309);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  box-shadow: 10px 10px 5px #888888;
+  height: 100px;
+  margin-top: 50px;
+  width: 400px;
+  text-align: center;
+  text-shadow: 2px 3px #888;
+  vertical-align: middle;
+  line-height: 100px; 
+}
+
+
+            </style>
+
+      </head>
+      <body>
+    <div class="div1"><p>
+    
+    </p>
+    </div> 
+<div class="div2"><p>
+    
+    </p>
+    </div>
+    <div class="div3"><p>
+    
+    </p>
+    </div>
+    <div class="div4"><p>
+    
+    </p>
+    </div>
+  
+    <div class="div5">
+    <h1>A box with Gradient</h1><p>
+    </p>
+    </div>
+    
+    <div class="div6">
+    <h1>A box with Gradient</h1><p>
+    </p>
+    </div>
+</body>
+
+</html>
