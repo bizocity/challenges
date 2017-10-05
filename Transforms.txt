@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>Getting Started</title>
+            <style>
+                   div {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 50px;
+    margin: auto;
+    //margin-top: 0px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    width: 200px; 
+}
+.translated {
+  transform: translate(-100px, 0px);
+}
+.rotated {
+  transform: rotate(50deg);
+  margin-top: 100px;
+}
+.scaled {
+  transform: scale(2);
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.skewed {
+  transform: skew(0deg, 20deg);
+}
+
+
+
+            </style>
+
+      </head>
+      <body>
+    <div>
+    Box
+    </div> 
+   
+<div class="translated">
+    I am translated
+    </div>
+    
+    <div class="rotated">
+    I am rotated
+    </div>
+    
+    <div class="scaled">
+    I am scaled  
+    </div>
+  
+    <div class="skewed">
+    I am scewed
+    </div>
+    
+  
+</body>
+
+</html>
